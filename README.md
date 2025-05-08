@@ -27,6 +27,8 @@
 ---
 
 ## 📫 How to reach me: 
-www.linkedin.com/in/mandsmands/
-amandacristinydias@gmail.com
+<a href="www.linkedin.com/in/mandsmands/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <br>
+<a href="amandacristinydias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <br>
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white) : @mandsmands.
+
 
