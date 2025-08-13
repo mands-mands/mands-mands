@@ -8,11 +8,13 @@
 
 ## 🚀 Technologies I'm Learning:
 
-- 🌐 HTML | CSS | JavaScript  
-- 🐍 Python  
-- 🛠️ Git & GitHub  
-- 🧠 Algorithms and Programming Logic  
-- 🐧 Linux
+- 🌐 **HTML | CSS | JavaScript** – Web Development basics and interactivity  
+- 🐍 **Python** – Automation, scripting, and problem-solving  
+- 🛠️ **Git & GitHub** – Version control and collaboration  
+- 🐧 **Linux** – Command-line skills and system administration  
+- 🗄️ **MySQL** – Database design and queries  
+- 📊 **Systems Analysis and Design** – Requirements gathering, UML diagrams, and process modeling
+
 
 ---
 
