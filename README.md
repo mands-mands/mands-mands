@@ -23,7 +23,7 @@
 - [x] Build my first portfolio
 - [ ] Get a **remote internship** in tech 👩‍💻
 - [ ] Complete a Full Stack project  
-- [ ] Deepen my knowledge in Cybersecurity  
+- [x] Deepen my knowledge in Cybersecurity  
 - [ ] Contribute to open source projects  
 
 ---
