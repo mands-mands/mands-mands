@@ -5,7 +5,7 @@
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🚀 Participante do programa **ONE G9 - Oracle Next Education + Alura**
 - 💻 Focada em **Back-end com Java**
-- 🔐 Interessada em **Cibersegurança**
+- 🔐 Interessada em **DevOPs** e **Cibersegurança**
   
 
 
