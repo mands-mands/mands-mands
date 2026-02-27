@@ -13,10 +13,8 @@
 
 * ☕ **Java com Spring Boot**
 * 🌐 **APIs REST**
-* ⚙️ **DevOps**
-
+* 🐳 **Docker**
 * 🐧 **Linux**
-* 🗄️ **MySQL**
 * 🧠 **Git & GitHub**
   
 
