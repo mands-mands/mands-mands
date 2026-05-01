@@ -4,26 +4,29 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🚀 Participante do programa **ONE G9 - Oracle Next Education + Alura**
-- 💻 Focada em **Back-end com Java**
-- 🔐 Interessada em **DevOPs** e **Cibersegurança**
-  
+- ☁️ Em formação em **Cloud e DevOps (AWS + OCI)**
+- 💻 Focada em **Back-end com Java e Spring Boot**
 
+  
 
 # <img src="https://github.com/user-attachments/assets/06ae952a-05af-46b4-a9b6-2d48fc06ea49" width="50"> Atualmente estudando
 
 * ☕ **Java com Spring Boot**
 * 🌐 **APIs REST**
-* 🐳 **Docker**
-* 🐧 **Linux**
-* 🧠 **Git & GitHub**
+* ☁️ **Cloud Computing (AWS Re/Start + OCI - Oracle Cloud Infrastructure)**
+* 🐧 **Linux (CLI, scripts e administração básica)**
+* 🗄️ **SQL (MySQL) e modelagem de dados**
   
 
 ## 🎯 Objetivo profissional
 
-- Me tornar uma desenvolvedora **Back-end com Java**, construindo sistemas seguros, eficientes e bem estruturados.
-- Também tenho grande interesse em seguir na área de **Cibersegurança**, protegendo aplicações e dados no mundo digital. 🔐
+- Me tornar desenvolvedora **Back-end Java**, construindo APIs escaláveis, seguras e bem estruturadas.
+- Evoluir para atuar também com **DevOps e Cloud (AWS/OCI)**, entendendo infraestrutura e automação de sistemas.
+- A longo prazo, me aprofundar em **Cibersegurança**, protegendo aplicações, dados e ambientes em nuvem.
 
-💡 Quero colaborar em **projetos open source**, aprender com a comunidade e contribuir com soluções úteis para outras pessoas.
+💡 Busco oportunidades de estágio para aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e contribuir com soluções práticas.
+
+---
 
 
 
