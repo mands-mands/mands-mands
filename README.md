@@ -6,7 +6,7 @@
 - ☕ Focada em **desenvolvimento Back-end com Java** 
 - 🌐 Desenvolvendo aplicações e **APIs REST com Spring Boot** 
 - 🗄️ Estudando **SQL, PostgreSQL, Estruturas de Dados e Algoritmos** 
-- 🔎 Em busca da minha **primeira oportunidade de estágio em tecnologia*
+- 🔎 Em busca da minha **primeira oportunidade de estágio em tecnologia**
 
   
 
