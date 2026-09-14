@@ -2,30 +2,27 @@
 <img src="https://github.com/user-attachments/assets/0fe37fe3-5050-4b5a-ae55-44d7fa4be0bd" width="200px" align="right">
 
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🚀 Participante do programa **ONE G9 - Oracle Next Education + Alura**
-- ☁️ Em formação em **Cloud e DevOps (AWS + OCI)**
-- 💻 Focada em **Back-end com Java e Spring Boot**
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas — 4º semestre**
+- ☕ Focada em **desenvolvimento Back-end com Java** 
+- 🌐 Desenvolvendo aplicações e **APIs REST com Spring Boot** 
+- 🗄️ Estudando **SQL, PostgreSQL, Estruturas de Dados e Algoritmos** 
+- 🔎 Em busca da minha **primeira oportunidade de estágio em tecnologia*
 
   
 
 # <img src="https://github.com/user-attachments/assets/06ae952a-05af-46b4-a9b6-2d48fc06ea49" width="50"> Atualmente estudando
 
-* ☕ **Java com Spring Boot**
-* 🌐 **APIs REST**
-* ☁️ **Cloud Computing (AWS Re/Start + OCI - Oracle Cloud Infrastructure)**
-* 🐧 **Linux (CLI, scripts e administração básica)**
-* 🗄️ **SQL (MySQL) e modelagem de dados**
+- ☕ **Java e Programação Orientada a Objetos**
+- 🌱 **Spring Boot e APIs REST**
+- 🧠 **Estruturas de Dados e Algoritmos**
+- 🐧 **Linux (CLI, scripts e administração básica)**
+- 🗄️ **SQL e PostgreSQL**
   
 
 ## 🎯 Objetivo profissional
 
-- Me tornar desenvolvedora **Back-end Java**, construindo APIs escaláveis, seguras e bem estruturadas.
-- Evoluir para atuar também com **DevOps e Cloud (AWS/OCI)**, entendendo infraestrutura e automação de sistemas.
-- A longo prazo, me aprofundar em **Cibersegurança**, protegendo aplicações, dados e ambientes em nuvem.
-
-💡 Busco oportunidades de estágio para aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e contribuir com soluções práticas.
-
+Meu objetivo é iniciar minha carreira como **desenvolvedora Back-end**, com foco em **Java, Spring Boot, APIs REST e bancos de dados relacionais**. Quero continuar evoluindo nos fundamentos de desenvolvimento de software, estruturas de dados, arquitetura de aplicações e boas práticas, enquanto amplio meus conhecimentos em **Cloud e DevOps**. 
+- 💡 Atualmente, busco uma oportunidade de **estágio em tecnologia** onde eu possa transformar meus estudos em experiência profissional, aprender com desenvolvedores mais experientes e contribuir com projetos reais.
 ---
 
 
