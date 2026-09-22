@@ -3,10 +3,10 @@
 
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas — 4º semestre**
-- ☕ Focada em **desenvolvimento Back-end com Java** 
-- 🌐 Desenvolvendo aplicações e **APIs REST com Spring Boot** 
-- 🗄️ Estudando **SQL, PostgreSQL, Estruturas de Dados e Algoritmos** 
-- 🔎 Em busca da minha **primeira oportunidade de estágio em tecnologia**
+- ☕ Desenvolvendo conhecimentos em **Back-end com Java e Spring Boot**
+- 🌐 Experiência prática com **APIs REST, SQL e Git/GitHub**
+- ☁️ Ampliando meus estudos em **Cloud Computing, Linux e Infraestrutura**
+- 🔎 Em busca da minha **primeira oportunidade profissional em tecnologia**
 
   
 
@@ -14,15 +14,21 @@
 
 - ☕ **Java e Programação Orientada a Objetos**
 - 🌱 **Spring Boot e APIs REST**
+- 🗄️ **SQL e bancos de dados relacionais**
 - 🧠 **Estruturas de Dados e Algoritmos**
-- 🐧 **Linux (CLI, scripts e administração básica)**
-- 🗄️ **SQL e PostgreSQL**
+- 🐧 **Linux — CLI, scripts e administração básica**
+- ☁️ **Fundamentos de Cloud Computing — OCI e AWS**
+- 🖥️ **Servidores, máquinas virtuais e SSH**
   
 
 ## 🎯 Objetivo profissional
 
-Meu objetivo é iniciar minha carreira como **desenvolvedora Back-end**, com foco em **Java, Spring Boot, APIs REST e bancos de dados relacionais**. Quero continuar evoluindo nos fundamentos de desenvolvimento de software, estruturas de dados, arquitetura de aplicações e boas práticas, enquanto amplio meus conhecimentos em **Cloud e DevOps**. 
-- 💡 Atualmente, busco uma oportunidade de **estágio em tecnologia** onde eu possa transformar meus estudos em experiência profissional, aprender com desenvolvedores mais experientes e contribuir com projetos reais.
+Meu objetivo é iniciar minha carreira na área de tecnologia, unindo os conhecimentos que venho desenvolvendo em **Back-end, Cloud e Infraestrutura**.
+
+No desenvolvimento, tenho direcionado meus estudos para **Java, Spring Boot, APIs REST e bancos de dados relacionais**. Também venho ampliando minha base em **Linux, servidores, máquinas virtuais, SSH e computação em nuvem**, com estudos em **Oracle Cloud Infrastructure (OCI) e AWS**.
+
+💡 Atualmente, busco uma oportunidade de **estágio ou posição de entrada em tecnologia**, especialmente nas áreas de **desenvolvimento Back-end, Cloud, Infraestrutura ou Suporte de TI**, onde eu possa transformar meus estudos em experiência profissional, aprender com profissionais mais experientes e contribuir com projetos reais.
+
 ---
 
 
